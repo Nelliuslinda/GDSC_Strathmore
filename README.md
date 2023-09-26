@@ -1,1 +1,1 @@
-# GDSC_Strathmore
+######HACKTOBERFEST:Partying Face:
